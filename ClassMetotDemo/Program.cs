@@ -83,6 +83,7 @@ namespace ClassMetotDemo
             guestManager.List(guest3);
             guestManager.List(guest4);
             guestManager.List(guest5);
+            guestManager.List(guest6);
 
 
 
@@ -103,7 +104,7 @@ namespace ClassMetotDemo
 
 
 
-            Console.WriteLine("Bizi Tercih ettiğiniz İçin Teşekkür Ederiz!");
+            Console.WriteLine("Bizi Tercih Ettiğiniz İçin Teşekkür Ederiz!");
 
 
 
